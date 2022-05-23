@@ -8,9 +8,9 @@ Topics learned:
 - custom navigation drawer
 - using async functions to get the returned value of a popped screen
 
-![1](https://user-images.githubusercontent.com/50000569/169888007-4fb152f5-0022-40d4-8b80-8cfdd605ce2e.gif)
-![2](https://user-images.githubusercontent.com/50000569/169888724-ee6dd8bd-8b17-4f51-82de-83587e7c201f.gif)
-![3](https://user-images.githubusercontent.com/50000569/169888744-0d15e73d-876a-493e-8adb-73376e8bda4f.gif)
+![1](https://user-images.githubusercontent.com/50000569/169890376-c88086e3-cb7e-4f45-a66c-a2291a8320db.gif)
+![2](https://user-images.githubusercontent.com/50000569/169890394-73389e4c-45e1-4812-a8bf-6c039f0238a5.gif)
+![3](https://user-images.githubusercontent.com/50000569/169890403-0869c11d-6da1-40e2-bf9b-da8b410c728f.gif)
 
 ## Getting Started
 
